@@ -1,2 +1,2 @@
-# Decay of baryon Λ and meson K using Monte Carlo methods to obtain Armenteros graph
-Sebastian Reyes and Laura Zamudio 
+# Decaimiento de barión  Λ y mesón K usando método de Monte Carlo para obtener gráfica de Armenteros 
+por Sebastian Reyes y Laura Zamudio 
